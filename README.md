@@ -39,3 +39,7 @@ In memory, an image is represented as a N*M (for greyscale images) or N*M*3 (for
 - To decode, the least significant bit BGR components of pixels are extracted and concatenated in a string.
 - Groups of 8 bits are formed and converted to corresponding character values and once the key is found at the end of the string the decryption stops and the message is returned without the key.
 
+### Is Steganography a Safe Way to Communicate?
+
+When steganography is used alone, it provides security through obscurity, which may result in the secret message being revealed. Combining steganography and cryptography is the most effective way to hide a message from adversaries while still protecting it if it is discovered.
+
