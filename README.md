@@ -25,3 +25,17 @@ In memory, an image is represented as a N*M (for greyscale images) or N*M*3 (for
 ![Screenshot (742)](https://user-images.githubusercontent.com/91322195/219712815-936b180c-bad0-4c32-90b0-a719128db6c1.png)
 
 ![Screenshot (743)](https://user-images.githubusercontent.com/91322195/219712842-f486a0f3-ef01-4092-883a-9bc021f71318.png)
+
+**Explaination:**
+
+- We have utilized the Least Significant Bit Algorithm for this method.
+- In Least Significant Bit Algorithm a secret key is appended to the data to be hidden in the image and the new data is converted to binary.
+- Images are made up of pixels which usually refer to the color of that particular pixel. 
+- In an coloured image, these pixels are made up of three components (Red, Green, Blue) and each component is in the range 0-255.
+- In this algorithm, we take the input text from user and using the secret key value we get the data message which we encode by converting it into binary format. 
+- The encoded string is then encrypted in the image bit by bit.
+- On doing the same for every pixel, a new image matrix is created.
+- The new image has negligible changes because only the least significant bits are changed.
+- To decode, the least significant bit BGR components of pixels are extracted and concatenated in a string.
+- Groups of 8 bits are formed and converted to corresponding character values and once the key is found at the end of the string the decryption stops and the message is returned without the key.
+
