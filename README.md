@@ -10,9 +10,11 @@
 
 In memory, an image is represented as a N*M (for greyscale images) or N*M*3 (for colour images) matrix, with each entry representing the intensity value of a pixel. Image steganography embeds a message into an image by changing the values of some pixels chosen by an encryption algorithm.
 
-**Screenshots**
+**Conversion Table**
 
 ![Pic]( https://github.com/Mihika135/Information_Security_IA_ImageSteganography/blob/main/images/image2.png?raw=true)
+
+The above table shows the conversion of character to decimal and binary numbers.
 
 **Screenshots of Implementation**
 
