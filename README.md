@@ -13,3 +13,16 @@ In memory, an image is represented as a N*M (for greyscale images) or N*M*3 (for
 **Screenshots**
 
 ![Pic]( https://github.com/Mihika135/Information_Security_IA_ImageSteganography/blob/main/images/image2.png?raw=true)
+
+**Screenshots of Implementation**
+![Screenshot (738)](https://user-images.githubusercontent.com/91322195/219712604-f75f7c9a-ea91-4127-b140-2ca765c205f7.png)
+
+![Screenshot (739)](https://user-images.githubusercontent.com/91322195/219712671-c6fc6941-971c-4c77-9c7d-d6bd2afdbbfc.png)
+
+![Screenshot (740)](https://user-images.githubusercontent.com/91322195/219712717-ffac08e9-2083-4e33-b651-891f60ebd672.png)
+
+![Screenshot (741)](https://user-images.githubusercontent.com/91322195/219712775-aa9fab50-7408-4412-a8b6-d87d68934289.png)
+
+![Screenshot (742)](https://user-images.githubusercontent.com/91322195/219712815-936b180c-bad0-4c32-90b0-a719128db6c1.png)
+
+![Screenshot (743)](https://user-images.githubusercontent.com/91322195/219712842-f486a0f3-ef01-4092-883a-9bc021f71318.png)
