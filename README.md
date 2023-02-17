@@ -15,7 +15,6 @@ In memory, an image is represented as a N*M (for greyscale images) or N*M*3 (for
 ![Pic]( https://github.com/Mihika135/Information_Security_IA_ImageSteganography/blob/main/images/image2.png?raw=true)
 
 **Screenshots of Implementation**
-![Screenshot (738)](https://user-images.githubusercontent.com/91322195/219712604-f75f7c9a-ea91-4127-b140-2ca765c205f7.png)
 
 ![Screenshot (739)](https://user-images.githubusercontent.com/91322195/219712671-c6fc6941-971c-4c77-9c7d-d6bd2afdbbfc.png)
 
