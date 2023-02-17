@@ -26,6 +26,8 @@ In memory, an image is represented as a N*M (for greyscale images) or N*M*3 (for
 
 ![Screenshot (743)](https://user-images.githubusercontent.com/91322195/219712842-f486a0f3-ef01-4092-883a-9bc021f71318.png)
 
+![image](https://user-images.githubusercontent.com/91322195/219716326-1f6d644f-23d1-41d0-a07c-eb675979d1ed.png)
+
 **Explaination:**
 
 - We have utilized the Least Significant Bit Algorithm for this method.
